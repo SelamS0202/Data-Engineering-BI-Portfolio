@@ -8,7 +8,7 @@ The projects reflect my technical skills and ongoing professional development in
 
 | Project | Technologies | Key Activities | Domain |
 | --- | --- | --- | --- |
-| Clinic Productivity Analysis | SQL,dbt, Power BI | Data analysis, KPI monitoring, data vault modelling, and dashboard development | Healthcare |
+| Clinic Productivity Analysis | SQL, Power BI | Data analysis, KPI monitoring, and dashboard development | Healthcare |
 | HR Analytics | SQL, SSIS, Power BI | ETL development, data modelling, and dashboard development | Human Resources |
 | Personal Finance Analysis | Power BI, DAX | Financial analysis, KPI tracking, and dashboard development | Personal Finance |
 | Sales Analytics | Python, SQLAlchemy, SQL, Power BI | Data integration, ETL, star schema design, and reporting | E-commerce |
@@ -17,7 +17,7 @@ The projects reflect my technical skills and ongoing professional development in
 ## Technical Skills
 
 - **Programming and Querying:** SQL, Python
-- **Data Engineering:** ETL, data integration, data transformation, SSIS, Databricks,dbt
+- **Data Engineering:** ETL, data integration, data transformation, SSIS, Databricks
 - **Data Modelling:** Dimensional modelling, star schema design, logical data modelling
 - **Business Intelligence:** Power BI, DAX, dashboard development, KPI reporting
 - **Analytics:** Data analysis, reporting, and data-driven decision-making
