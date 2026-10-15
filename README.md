@@ -18,7 +18,7 @@ The projects reflect my technical skills and ongoing professional development in
 ## Technical Skills
 
 - **Programming and Querying:** SQL, Python
-- **Data Engineering:** ETL, data integration, data transformation, SSIS, Databricks
+- **Data Engineering:** ETL, data integration, data transformation, SSIS, Databricks, dbt
 - **Data Modelling:** Dimensional modelling, star schema design, logical data modelling
 - **Business Intelligence:** Power BI, DAX, dashboard development, KPI reporting
 - **Analytics:** Data analysis, reporting, and data-driven decision-making
