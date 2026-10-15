@@ -13,6 +13,7 @@ The projects reflect my technical skills and ongoing professional development in
 | Personal Finance Analysis | Power BI, DAX | Financial analysis, KPI tracking, and dashboard development | Personal Finance |
 | Sales Analytics | Python, SQLAlchemy, SQL, Power BI | Data integration, ETL, star schema design, and reporting | E-commerce |
 | US Carbon Emissions Analysis | SQL, Databricks | Data processing, emissions analysis, and reporting | Environmental Analytics |
+| [Diabetes Hospital Encounter Analysis](https://github.com/SelamS0202/Portfolio-Project-DataVault-dbt) | dbt Core, DuckDB, Power BI | Data Vault 2.0 modelling, data transformation, testing, documentation, and dashboard development | Healthcare |
 
 ## Technical Skills
 
