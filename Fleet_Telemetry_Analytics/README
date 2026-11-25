@@ -1,0 +1,52 @@
+
+# Fleet Telemetry Analytics
+
+## Project Overview
+
+An end-to-end fleet telemetry analytics project that uses Python and DuckDB to generate, process, and analyse synthetic IoT telemetry data across 50 vehicles.
+
+The project processes **150,000 telemetry records**, applying data quality checks and star-schema modelling to transform raw telemetry data into structured datasets for fleet performance analytics.
+
+## Technology Stack
+
+- **Python:** Synthetic data generation and ETL processing.
+- **DuckDB:** Database creation, data storage, and SQL transformations.
+- **SQL:** Data processing and analytical queries.
+- **Data Modelling:** Star-schema modelling.
+
+## Project Structure
+
+```text
+Fleet_Telemetry_Analytics/
+│
+├── Data/
+│   └── raw_telematry.csv
+│
+├── Data_Model/
+│   └── Fleet_Operations_Data_Model.png
+│
+└── ETL_Python_Scripts/
+    ├── Create_Database_and_Load_Raw_Fleet_Telemetry.ipynb
+    └── Generate_Synthetic_Fleet_Telemetry_Data.ipynb
+```
+
+## Key Features
+
+- Generated synthetic IoT telemetry data for 50 vehicles.
+- Processed 150,000 telemetry records.
+- Built a DuckDB database to store and manage fleet telemetry data.
+- Implemented ETL workflows using Python and SQL.
+- Applied data quality checks to improve data consistency.
+- Designed a star-schema data model for fleet performance analytics.
+
+## Project Objectives
+
+The project demonstrates practical data engineering skills, including synthetic data generation, ETL development, database management, data quality validation, and dimensional data modelling.
+
+## Author
+
+Selam
+
+Data Engineer | Data Warehousing | Business Intelligence
+
+- Medium: [Row by Row: BI & Data Engineering]
